@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: "Zar", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  direction: rtl;
+}
+
+@font-face {
+  font-family: "Zar";
+  src: url("../fonts/B Zar_0.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
