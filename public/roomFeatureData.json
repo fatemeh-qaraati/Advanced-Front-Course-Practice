@@ -1,0 +1,130 @@
+[
+  {
+    "hotel": "Hotel Sunshine",
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Luxury Suite",
+        "price": 200,
+        "description": "xperience luxury with plush bedding, spacious living, and stunning getaway views.",
+        "image": "images/Sunshine-pic1.jpg",
+        "facilities": "Ironing, free wifi",
+        "bed": 2
+      },
+      {
+        "id": 2,
+        "name": "Deluxe Room",
+        "price": 150,
+        "description": "Spacious and modern room with comfortable furnishings and great amenities.",
+        "image": "images/Sunshine-pic2.jpg",
+        "facilities": "gym, free wifi",
+        "bed": 1
+      },
+      {
+        "id": 3,
+        "name": "Executive Room",
+        "price": 180,
+        "description": "Perfect for business travelers, featuring a large work desk and high-speed internet.",
+        "image": "images/Sunshine-pic3.jpg",
+        "facilities": "office, free wifi",
+        "bed": 1
+      }
+    ]
+  },
+  {
+    "hotel": "Seaside Escape",
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Penthouse Suite",
+        "price": 400,
+        "description": "A luxurious penthouse with a private terrace,fitness room and stunning city views.",
+        "image": "images/Seaside-pic1.jpg",
+        "facilities": "terrace, Fitness room",
+        "bed": 2
+      },
+      {
+        "id": 2,
+        "name": "Ocean View Room",
+        "price": 220,
+        "description": "A room with an amazing view of the ocean, perfect for a relaxing vacation.",
+        "image": "images/Seaside-pic2.jpg",
+        "facilities": "sea view, Fitness room",
+        "bed": 2
+      },
+      {
+        "id": 3,
+        "name": "Mountain Retreat Room",
+        "price": 180,
+        "description": "Experience peace and serenity in this room, located at the foot of majestic mountains.",
+        "image": "images/Seaside-pic3.jpg",
+        "facilities": "mountain view, free wifi",
+        "bed": 2
+      }
+    ]
+  },
+  {
+    "hotel": "Golden Woodland Hotel",
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Standard Room",
+        "price": 100,
+        "description": "A cozy room with all the essentials for a comfortable stay at an affordable price.",
+        "image": "images/Woodland-pic1.jpg",
+        "facilities": "free wifi,Fitness room",
+        "bed": 1
+      },
+      {
+        "id": 2,
+        "name": "Studio Room",
+        "price": 110,
+        "description": "Cozy studio with kitchenette, seating, and premium home-like comfort.",
+        "image": "images/Woodland-pic2.jpg",
+        "facilities": "sea view, Ironing",
+        "bed": 2
+      },
+      {
+        "id": 3,
+        "name": "Family Room",
+        "price": 120,
+        "description": "A large room designed for families, with extra beds and a cozy atmosphere.",
+        "image": "images/Woodland-pic3.jpg",
+        "facilities": "family-friendly, Sauna",
+        "bed": 3
+      }
+    ]
+  },
+  {
+    "hotel": "Coastal Luxe",
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Skyline Suite",
+        "price": 250,
+        "description": "A luxurious suite with panoramic views, modern amenities, and unparalleled comfort.",
+        "image": "images/Coastal-pic1.jpg",
+        "facilities": "rooftop pool, free wifi",
+        "bed": 2
+      },
+      {
+        "id": 2,
+        "name": "Garden View Room",
+        "price": 130,
+        "description": "A peaceful and cozy room overlooking lush, vibrant gardens, ideal for nature enthusiasts.",
+        "image": "images/Coastal-pic2.jpg",
+        "facilities": "garden view, Ironing",
+        "bed": 1
+      },
+      {
+        "id": 3,
+        "name": "Lakefront Room",
+        "price": 220,
+        "description": "A tranquil room with stunning views of the lake, perfect for relaxation and unwinding.",
+        "image": "images/Coastal-pic3.jpg",
+        "facilities": "lake view, parking",
+        "bed": 2
+      }
+    ]
+  }
+]

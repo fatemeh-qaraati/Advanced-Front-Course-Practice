@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "photo": "/images/Profile1-s5.jpg",
+    "name": "Alice Johnson",
+    "comment": "Fantastic service and excellent facilities! Highly recommend.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "photo": "/images/Profile2-s5.jpg",
+    "name": "Mark Smith",
+    "comment": "The rooms were clean and the staff was super friendly.",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "photo": "/images/Profile3-s5.jpg",
+    "name": "Sarah Brown",
+    "comment": "Amazing experience! Will definitely come back again.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "photo": "/images/Profile4-s5.jpg",
+    "name": "John Davis",
+    "comment": "Good value for money. Could improve on room service timing.",
+    "rating": 3
+  }
+]

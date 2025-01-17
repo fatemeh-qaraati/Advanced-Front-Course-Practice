@@ -1,0 +1,10 @@
+export const HOME_ROUTE = "/";
+export const RESERVATION_FORM_ROUTE = "/reservation-form";
+export const CONTACT_ROUTE = "/contact";
+export const LOGIN_ROUTE = "/login";
+export const RESERVATION_STATUS_ROUTE = "/reservation-status";
+export const ROOM_FEATURE_ROUTE = "/select-room";
+export const NOT_FOUND_ROUTE = "*";
+export const RESERVATION_LIST_ROUTE = "/reservation-list";
+export const FINAL_LIST_ROUTE = "/final-reservation-list";
+export const SIGN_UP_ROUTE = "/sign-up";

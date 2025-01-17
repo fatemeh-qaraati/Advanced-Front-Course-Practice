@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "image": "/images/Luxury-Suite-s4.jpg",
+    "title": "Luxury Suite",
+    "description": "Experience the best with our premium luxury suite offering a spectacular view.",
+    "beds": 2,
+    "maxGuests": 4,
+    "otherOption": "Ocean View"
+  },
+  {
+    "id": 2,
+    "image": "/images/Family-Room-s4.jpg",
+    "title": "Family Room",
+    "description": "Spacious and cozy rooms for your family vacation, with all the modern amenities.",
+    "beds": 4,
+    "maxGuests": 7,
+    "otherOption": "Private Balcony"
+  },
+  {
+    "id": 3,
+    "image": "/images/Deluxe-Room-s4.jpg",
+    "title": "Deluxe Room",
+    "description": "Experience luxury and comfort in our deluxe rooms, designed for ultimate relaxation.",
+    "beds": 1,
+    "maxGuests": 2,
+    "otherOption": "Mountain View"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "/images/room1.jpg",
+    "title": "Luxury Suite",
+    "description": "Experience luxury with plush bedding, spacious living, and stunning getaway views.",
+    "buttonText": "Book Deluxe",
+    "price": 170
+  },
+  {
+    "id": 2,
+    "image": "/images/room2.jpg",
+    "title": "Executive Room",
+    "description": "Executive Suite offers workspace, luxury furnishings, modern amenities, and breathtaking views.",
+    "buttonText": "Book Executive",
+    "price": 150
+  },
+  {
+    "id": 3,
+    "image": "/images/room3.jpg",
+    "title": "Deluxe King Room",
+    "description": "Relax in our Deluxe King Room with a king-sized bed and modern amenities.",
+    "buttonText": "Book Deluxe King",
+    "price": 140
+  },
+  {
+    "id": 4,
+    "image": "/images/room4.jpg",
+    "title": "Family Room",
+    "description": "Family room with spacious layout, bedding options, and kid-friendly amenities for a delightful stay.",
+    "buttonText": "Book Family Room",
+    "price": 165
+  },
+  {
+    "id": 5,
+    "image": "/images/room5.jpg",
+    "title": "Penthouse Suite",
+    "description": "Experience exclusivity in our Penthouse Suite with panoramic views and sophisticated interiors.",
+    "buttonText": "Book Penthouse Suite",
+    "price": 200
+  },
+  {
+    "id": 6,
+    "image": "/images/room6.jpg",
+    "title": "Eco-Friendly Room",
+    "description": "Eco-Friendly Room with green materials and energy-efficient features, prioritizing comfort and sustainability.",
+    "buttonText": "Book Eco-Friendly",
+    "price": 130
+  },
+  {
+    "id": 7,
+    "image": "/images/room7.jpg",
+    "title": "Honeymoon Suite",
+    "description": "Honeymoon Suite with private jacuzzi, romantic ambiance, stunning views, and elegant touches.",
+    "buttonText": "Book Honeymoon",
+    "price": 120
+  },
+  {
+    "id": 8,
+    "image": "/images/room8.jpg",
+    "title": "Twin Room",
+    "description": "Classic Twin Room with comfortable beds, modern decor, and essential amenities for relaxation.",
+    "buttonText": "Book Twin Room",
+    "price": 135
+  },
+  {
+    "id": 9,
+    "image": "/images/room9.jpg",
+    "title": "Studio Room",
+    "description": "Studio Apartment with kitchenette, cozy seating, and premium facilities for home-like comfort.",
+    "buttonText": "Book Studio",
+    "price": 110
+  }
+]
